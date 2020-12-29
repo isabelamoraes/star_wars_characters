@@ -48,4 +48,4 @@ $ yarn dev
 
 ## Reference
 
-The information for this application comes from the open-source REST API Star Wars Character, available in the github repository [akabab/starwars-api](https://github.com/akabab/starwars-api).
+The information about the characters for this application comes from the open-source REST API Star Wars Character, available in the github repository [akabab/starwars-api](https://github.com/akabab/starwars-api).
