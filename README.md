@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Screens Demo" src="https://github.com/isabelamoraes/star_wars_characters/blob/main/demo/star_wars_characters_screens.jpg?raw=true" width="70%">
+  <img alt="Screens Demo" src="https://raw.githubusercontent.com/isabelamoraes/star_wars_characters/main/demo/star_wars_characters_web.jpg" width="70%">
   <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/star_wars_characters/blob/main/demo/star_wars_characters.gif?raw=true" width="23%">
 </p>
 
