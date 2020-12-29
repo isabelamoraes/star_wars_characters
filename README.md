@@ -3,7 +3,7 @@
     <img src="https://github.com/isabelamoraes/star_wars_characters/blob/main/demo/logo.jpg?raw=true" alt="Star Wars Characters">
   <br>
   <br>
-  HAPPY
+  STAR WARS CHARACTERS
 </h1>
 
 <h4 align="center">
