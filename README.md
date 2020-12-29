@@ -38,11 +38,8 @@ $ git clone https://github.com/isabelamoraes/star_wars_characters.git star_wars_
 # Install dependencies
 $ yarn install
 
-# Run the web or mobile application
+# Run the mobile application
 $ yarn start
-
-# Run the backend application
-$ yarn dev
 
 ```
 
